@@ -1,1 +1,1 @@
-![fluxo](https://github.com/DeliveTCC/Router_private/blob/main/fluxo.png)
+![fluxo](https://github.com/DeliveTCC/Router/blob/main/fluxo.png)
